@@ -1,2 +1,1 @@
-# Bajaj-Sales-Executive
-Interactive dashboard analyzing 9,994 US retail transactions (2018-2021) with real-time filters. Features KPI merics, revenue trends, regional/segment performance, profitability analysis, and heatmaps. Built with chat.js for data-driven insights.
+This is a comprehensive executive-level sales analytics dashboard built for Bajaj, visualizing retail sales performance data from 2018 to 2021 across the US market. The dashboard is designed as a single-page HTML application with embedded CSS and JavaScript, leveraging Chart.js for data visualization and providing real-time interactive filtering capabilities.
